@@ -163,3 +163,5 @@ The Delta codebase is distributed under the **AGPLv3 license**.
 * Mastodon: [@mattaltgear@mstdn.social](https://mstdn.social/mattaltgear)
 * Threads: [@mattaltgear](https://www.threads.com/@mattaltgear)
 * Bluesky: [@mattaltgear.bsky.social](https://bsky.app/profile/mattaltgear.bsky.social)
+
+Triggering build for Genesis support
